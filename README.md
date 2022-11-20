@@ -1,4 +1,4 @@
-# 5-bit-Quantum-Error-Correction
+# 5 qubit-Quantum-Error-Correction
 
 Pre-requisites:
 ```
